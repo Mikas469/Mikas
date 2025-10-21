@@ -3,6 +3,7 @@ const facts = [
   "My favorite sport is basketball.",
   "I enjoy coding small games.",
   "I like to bake cupcakes on weekends."
+  "I love listening to music!"
 ];
 
 const factParagraph = document.getElementById("fact");
